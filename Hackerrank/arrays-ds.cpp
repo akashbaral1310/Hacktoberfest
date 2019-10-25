@@ -34,6 +34,7 @@ int main(){
     for(int arr_i = n-1;arr_i >= 0;arr_i--){
        cout << arr[arr_i]<<" ";
     }
+printf("happy hacking");
     return 0;
 }
 
